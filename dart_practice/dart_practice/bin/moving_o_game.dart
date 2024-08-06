@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main(List<String> arguments) {
+void main() {
   /** 필요한 것
    * 1. 게임판 (board) => 일단은 지정된 값으로 진행
    * 2. 움직임 입력 받기 (wasd 엔터) => 표준입출력으로 진행, while문으로 진행해서 끊기
